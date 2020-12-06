@@ -1,0 +1,36 @@
+// this file contains all possible types of calculations in their proper format
+// binary calculations
+Calculate binary + 1001 1001
+Calculate binary - 100101011 11111010111
+Calculate binary * 100101011 11111010111
+Calculate binary / 100101011 11111010111
+Convert binary to decimal 101010101010101
+Convert decimal to binary 1637
+// hex calculations
+Calculate hexadecimal + 4bf 44f
+Calculate hexadecimal - 4bf 44f
+Calculate hexadecimal * 4bf 44f
+Calculate hexadecimal / 4bf 44f
+Convert decimal to hexadecimal 12435
+Convert hexadecimal to decimal 3fa
+// data unit conversion
+Convert data unit to Bytes 721
+Convert data unit to kilobytes 624
+Convert data unit to megabytes 1005
+Convert data unit to gigabytes 1024
+Convert data unit to terabytes 1024
+// download/upload time
+Calculate Download/Upload Time 12 Bytes 6 bit/s
+Calculate Download/Upload Time 22 Kilobytes 1 Mbit/s
+Calculate Download/Upload Time 3 Gigabytes 7 Kbit/s
+Calculate Download/Upload Time 9 Terabytes 9 Gbit/s
+// website bandwidth
+Calculate Website Bandwidth 5 per hour 16 Bytes 4
+Calculate Website Bandwidth 14 per week 3 Kilobytes 3
+Calculate Website Bandwidth 20 per month 2 Megabytes 1
+Calculate Website Bandwidth 500 per year 1 Gigabytes 3
+// hosting bandwidth (only converts from month to bandwidth)
+Convert Monthly Usage to Bandwidth 11 Bytes bit/s
+Convert Monthly Usage to Bandwidth 13 Kilobytes bit/s
+Convert Monthly Usage to Bandwidth 19 Megabytes Kbit/s
+Convert Monthly Usage to Bandwidth 12 Gigabytes Mbit/s

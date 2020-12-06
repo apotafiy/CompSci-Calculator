@@ -1,0 +1,97 @@
+ 
+ 
+Binary Value: 10010
+Decimal Value: 18
+Binary Value: -11010101100
+Decimal Value: -1708
+Binary Value: 100100000010
+Decimal Value: 600093
+Binary Value: 0 Remainder: 100101011
+Decimal Value: 0 Remainder: 299
+21845
+11001100101
+ 
+Hex Value: 90e
+Decimal Value: 2318
+Hex Value: 70
+Decimal Value: 112
+Hex Value: 1472f1
+Decimal Value: 1340145
+Hex Value: 1 Remainder: 70
+Decimal Value: 1 Remainder: 112
+3093
+1018
+ 
+721.0 bytes is equivalent to any of the following:
+	5768.0 bits
+	5.768 kilobits
+	0.005768 megabits
+	5.768E-6 gigabits
+	5.768E-9 terabits
+	721.0 Bytes
+	0.721 Kilobytes
+	7.21E-4 Megabytes
+	7.21E-7 Gigabytes
+	7.21E-10 Terabytes
+624.0 kilobytes is equivalent to any of the following:
+	4992000.0 bits
+	4992.0 kilobits
+	4.992 megabits
+	0.004992 gigabits
+	4.992E-6 terabits
+	624000.0 Bytes
+	624.0 Kilobytes
+	0.624 Megabytes
+	6.24E-4 Gigabytes
+	6.24E-7 Terabytes
+1005.0 megabytes is equivalent to any of the following:
+	8.04E9 bits
+	8040000.0 kilobits
+	8040.0 megabits
+	8.04 gigabits
+	0.008039999999999999 terabits
+	1.005E9 Bytes
+	1005000.0 Kilobytes
+	1005.0 Megabytes
+	1.005 Gigabytes
+	0.0010049999999999998 Terabytes
+1024.0 gigabytes is equivalent to any of the following:
+	8.192E12 bits
+	8.192E9 kilobits
+	8192000.0 megabits
+	8192.0 gigabits
+	8.192 terabits
+	1.024E12 Bytes
+	1.024E9 Kilobytes
+	1024000.0 Megabytes
+	1024.0 Gigabytes
+	1.024 Terabytes
+1024.0 terabytes is equivalent to any of the following:
+	8.192E15 bits
+	8.192E12 kilobits
+	8.192E9 megabits
+	8192000.0 gigabits
+	8192.0 terabits
+	1.024E15 Bytes
+	1.024E12 Kilobytes
+	1.024E9 Megabytes
+	1024000.0 Gigabytes
+	1024.0 Terabytes
+ 
+Download or upload time needed is: 0 days 0 hours 0 minutes 16.0 seconds
+Download or upload time needed is: 0 days 0 hours 0 minutes 0.176 seconds
+Download or upload time needed is: 39 days 16 hours 22 minutes 51.42857142863795 seconds
+Download or upload time needed is: 0 days 2 hours 13 minutes 20.0 seconds
+ 
+Bandwidth needed is 1.777777777777778E-7 Mbits/s or 5.840000000000001E-5 GB per month.
+With redundancy factor of 4, the bandwidth needed is 7.111111111111112E-7 Mbits/s or 2.3360000000000004E-4 GB per month.
+Bandwidth needed is 5.555555555555556E-7 Mbits/s or 1.8250000000000002E-4 GB per month.
+With redundancy factor of 3, the bandwidth needed is 1.6666666666666669E-6 Mbits/s or 5.475E-4 GB per month.
+Bandwidth needed is 1.21765601217656E-4 Mbits/s or 0.04 GB per month.
+Bandwidth needed is 0.12682308180088775 Mbits/s or 41.66138237159163 GB per month.
+With redundancy factor of 3, the bandwidth needed is 0.38046924540266325 Mbits/s or 124.98414711477488 GB per month.
+ 
+11.0 bytes per month is equivalent to 3.3485540334855407E-5 bit/s
+13.0 kilobytes per month is equivalent to 0.0395738203957382 bit/s
+19.0 megabytes per month is equivalent to 0.05783866057838661 Kbit/s
+12.0 gigabytes per month is equivalent to 0.0365296803652968 Mbit/s
